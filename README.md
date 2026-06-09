@@ -12,8 +12,8 @@
 ## Struttura del repository
 
 ├── data/ \
-├── notebooks/ \
 ├── figures/ \
+├── notebooks/ \
 ├── report/ \
 └── README.md 
 
